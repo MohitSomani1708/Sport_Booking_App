@@ -1,3 +1,17 @@
+# IIT2021105 - MOHIT SOMANI 
+
+# Description
+
+This is the frontend application for the Skedulargt project, a scheduling system for sports facilities. It's built with React and Vite, featuring a dynamic scheduling interface, user management, and booking functionality.
+
+<img width="1272" alt="image" src="https://github.com/user-attachments/assets/9259e2bc-50a5-4dec-b270-071778552cad">
+<img width="1254" alt="image" src="https://github.com/user-attachments/assets/491aff2b-d68d-425d-8663-b6b9521f4ea3">
+<img width="1246" alt="image" src="https://github.com/user-attachments/assets/7755e3f7-6783-4af6-bc99-c801bac61ab2">
+
+# Demo video
+https://drive.google.com/file/d/1rXIdugNzS1Vn1jhv-OWK2H22-5Umms5c/view?usp=sharing
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
