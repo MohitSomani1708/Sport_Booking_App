@@ -1,0 +1,125 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.App-header {
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+label {
+  display: block;
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+p {
+  color: #ff0000; /* Error messages in red */
+}
+
+.success {
+  color: #28a745; /* Success messages in green */
+}
+
+/* Radio button styling */
+input[type="radio"] {
+  margin-right: 10px;
+}
+
+.radio-group {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+.radio-label {
+  margin-right: 20px;
+}
+
+
+p {
+  font-size: 14px;
+  color: #f44336;
+  margin-top: 0.5rem;
+}
+
+/* Token display */
+.token-display {
+  margin-top: 1rem;
+  background-color: #333;
+  padding: 1rem;
+  border-radius: 4px;
+  color: #61dafb;
+  font-family: monospace;
+}
+
+.token-display p {
+  margin: 0;
+}
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  position: relative;
+}
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 18px;
+}
