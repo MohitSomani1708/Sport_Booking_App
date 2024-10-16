@@ -2,7 +2,7 @@
 
 # Description
 
-This is the frontend application for the Skedulargt project, a scheduling system for sports facilities. It's built with React and Vite, featuring a dynamic scheduling interface, user management, and booking functionality.
+This is the frontend application for the Sport_Booking project, a scheduling system for sports facilities. It's built with React and Express.js used for fronted , nodejs as server - side language and mongodb as database ,  featuring a dynamic scheduling interface, user management, and booking functionality.
 
 <img width="1272" alt="image" src="https://github.com/user-attachments/assets/9259e2bc-50a5-4dec-b270-071778552cad">
 <img width="1254" alt="image" src="https://github.com/user-attachments/assets/491aff2b-d68d-425d-8663-b6b9521f4ea3">
