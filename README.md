@@ -1,3 +1,9 @@
+# IIT2021105 - Mohit Somani
+
+# Description
+This is the frontend application for the Sports Booking  project, a scheduling system for sports facilities. It's built with React and Express.js for the front end and node.js as server-side language and mongodb as database , featuring a dynamic scheduling interface, user management, and booking functionality.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
