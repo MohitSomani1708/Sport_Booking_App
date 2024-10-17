@@ -10,8 +10,6 @@ This is the frontend application for the Sports Booking  project, a scheduling s
 # Demo Video
  https://drive.google.com/file/d/1rXIdugNzS1Vn1jhv-OWK2H22-5Umms5c/view?usp=sharing
 
-# Report
-https://drive.google.com/file/d/19j5AVHPP_XueDUI5CBSFEhfF-ibGmeCt/view?usp=sharing
 
 # Getting Started with Create React App!
 
