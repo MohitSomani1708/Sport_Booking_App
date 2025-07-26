@@ -80,7 +80,4 @@ Here is the flow diagram outlining the booking process:
 ## Links
 - [Deployed URL](https://sports-booking-frontend-2.onrender.com)
 
-## Report
 
-You can find the detailed project report [here](reportV2.pdf).
-```
